@@ -1,4 +1,3 @@
-```markdown
 # Housing Analysis Project
 
 ## Environment Setup
